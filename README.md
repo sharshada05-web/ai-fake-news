@@ -15,7 +15,7 @@ An AI-powered fake news detection system using machine learning and natural lang
 ```bash
 pip install -r requirements.txt
 ```
-
+deploy
 ## Usage
 
 ### Basic Usage
