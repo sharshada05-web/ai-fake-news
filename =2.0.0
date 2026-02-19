@@ -1,0 +1,14 @@
+Requirement already satisfied: flask in /Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages (1.1.4)
+Requirement already satisfied: Werkzeug<2.0,>=0.15 in /Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages (from flask) (1.0.1)
+Collecting Jinja2<3.0,>=2.10.1 (from flask)
+  Using cached Jinja2-2.11.3-py2.py3-none-any.whl.metadata (3.5 kB)
+Requirement already satisfied: itsdangerous<2.0,>=0.24 in /Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages (from flask) (1.1.0)
+Requirement already satisfied: click<8.0,>=5.1 in /Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages (from flask) (7.1.2)
+Requirement already satisfied: MarkupSafe>=0.23 in /Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages (from Jinja2<3.0,>=2.10.1->flask) (3.0.2)
+Using cached Jinja2-2.11.3-py2.py3-none-any.whl (125 kB)
+Installing collected packages: Jinja2
+  Attempting uninstall: Jinja2
+    Found existing installation: Jinja2 3.1.6
+    Uninstalling Jinja2-3.1.6:
+      Successfully uninstalled Jinja2-3.1.6
+Successfully installed Jinja2-2.11.3
